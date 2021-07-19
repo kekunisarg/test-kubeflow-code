@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nth-plexus-320009",
+  "private_key_id": "0bed73b5d7c8fded3124c879ba83bd53b01e6ccb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOuF/dKKGN3xfl\nVx8Qv3plnEfDJLx32AuCEvZpilxiCK4gxGm38NguY9YH31OjVj55e4y02si2xPiv\n1Cft9Ec1d3zyO3p4HAEgvwHZyAZNbVJsCU6/4TxGzJGd4mJDEL3KKJ+9pdOf3EVM\npY9eulXSeL2DOBQEqe2jR0IUAfN+RyTeAOyR7bXnGqOral2/e4ouVmyJ3f0Ckln0\ns/OPf6Z3Fd7s0caNtfyOjBe31WRrDSorpQ+S4uLKoEHbfWoPBl+AgpX+ggLGuE8G\nap3/Z7reFInMfir7psPGc2LyxTAjkmwI4ozSFP70xXjouhRxN/iDHi7yB5UMkHo3\nkwY5jwqNAgMBAAECggEAA2O6Jq0yeo0/t6hf2QcN7oaYFdbcKqoY0Wj8/Pc8Bo6v\n4Qrd1OdJ4PdAHJO73yZcReLeiF47nLH9uRxYcncAuxuBD/olSvAV0KY97u086Grn\nenme/r4M6yt4vWCatEQDaKiVd42b7h4b5y+iLZWoL8uAOzUuY6X82iJVlT0zwEx9\nmD+xBEHv95kizhYTfNmqKpqLCj8oxaHxkFWgtX/otostInKOhWQ1nlDk2MUr226f\nm0BFfJJo/B7gkNiy1QPg9cdquRCn49/ZJYmRY+HZVvBwUC4TbTHFXqFHpGpgiTFf\nJ8S+z0uEuJgwyDMPK7jyKnsdUyiuU8m9VdT9/qdf4QKBgQDopxOJyLVgHlyU6Q8b\na47ETL+3z8g7liT10SVNuPX5yRHISrbZb8iDa38YdEQQl+oiMCczYRqFhiR6V7y0\nJ5ouGlX8mDvi6aAfpzwjpyXPPwaYcSQmseDeJna30H1q5GV+SXg7Xp2JmrrVvaGM\nVFwLztIK6+D8Z2Pi7p2gww1o1QKBgQDjdxXefHlRXlM8QWh2kKMDeIEETCqq45vx\nGo3gB9jDZOgBqdmEKnmYvmV74799UsKihu6OkcP9wShImth3jnEbOurfIhkcKfYp\nOpws6J1MraOiBbwqSurIg2NHrLvk/GX5DdDnhnJbQz2HTEuFBSbBPryJEBt5a77J\nOXGBwON22QKBgQDllPoS3Z0eXNe/mrztshYQYCxQlxpgsqmGaf0F1Z/l/iUuIYyO\nxWB5T3r8Br+kIEVLt3j3mrsxSE527F2q6emb1SFFQnTWVvVMRxtxk2AcQ3WeuQeT\np7Tfg9VjTrp04S3GkXm0HIoZYDc+9QKWGCk8/bsIS/yZFu3a4t1p5xE0gQKBgDml\nd3xgLVrKvet6ZCAQPc/mXUQajYGrl1y+LxCEzJGQZB/vzLlrDlAAiLWiHWiEbeFE\nsvacyH/p0Oy9mXiLN+z/vIB6IsT5eXIvcV8MQLkrFFo+e9Z4EBJrAeErTJ8WvD0n\nHDdg4mBwpQpB8q2uhYjZ/mv6EgxumvZiQXrxyHPZAoGAP8oZ6oB0TyTfhx/khW8X\n2aehLS8lNDgbGU3GyYGSwjVloawB2RHUJ+gimnfTe7sa7MPs3YxnT8rjZY2/7QVu\nFEDhUTcbXLXA1BCYSpJ/lVhfGJKlsNYKY5d4PEb68eeHuUJ03cJiF3jyESfBoZWN\nnh4VLzr740WI6/C4Smwybs4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-cloudstorage@nth-plexus-320009.iam.gserviceaccount.com",
+  "client_id": "101117046197943930010",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-cloudstorage%40nth-plexus-320009.iam.gserviceaccount.com"
+}
