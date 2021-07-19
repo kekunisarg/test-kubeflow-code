@@ -1,0 +1,12 @@
+Administration Date,FIPS,Locality,Health District,Facility Type,Vaccine Manufacturer,Dose Number,Vaccine Doses Administered Count
+02/27/2021,51510,Alexandria,Alexandria,Medical Practices,Moderna,2,9
+04/06/2021,51735,Poquoson,Peninsula,Local Health Departments,Pfizer,2,2
+04/28/2021,51163,Rockbridge,Central Shenandoah,Pharmacies,Moderna,2,6
+03/21/2021,51187,Warren,Lord Fairfax,Pharmacies,Moderna,1,1
+01/19/2021,51169,Scott,Lenowisco,Pharmacies,Moderna,1,8
+03/29/2021,51678,Lexington,Central Shenandoah,Pharmacies,Pfizer,1,6
+04/24/2021,51107,Loudoun,Loudoun,Medical Practices,Pfizer,1,34
+03/07/2021,51081,Greensville,Crater,Pharmacies,Pfizer,1,3
+03/27/2021,51133,Northumberland,Three Rivers,Medical Practices,Moderna,1,1
+03/09/2021,51063,Floyd,New River,Medical Practices,Moderna,2,1
+03/30/2021,51073,Gloucester,Three Rivers,Medical Practices,Moderna,1,33
