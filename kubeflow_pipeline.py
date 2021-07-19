@@ -12,11 +12,15 @@ def run_main_func1():
     return component1
 
 @kfp.dsl.component
-def run_main_func2():
+def run_main_func2(username, level):
     component2 = kfp.dsl.ContainerOp(
         name="component22",
         image = 'docker.io/kekunisarg/test-kubeflow-code',
-        command=['python','main.py'],
+        command=['python','main2.py'],
+        arguments=[
+            "--username", username,
+            "--level", level,
+        ]
     )
     return component2
 
@@ -24,10 +28,10 @@ def run_main_func2():
     name = "Test-kubeflow-pipeline",
     description="run-Test-kubeflow-pipeline"
 )
-def run_pipeline():
+def run_pipeline(username: str, level:str):
     run_comp1 = run_main_func1()
     run_comp1.execution_options.caching_strategy.max_cache_stalness = "P0D"
-    run_comp2 = run_main_func2().after(run_comp1)
+    run_comp2 = run_main_func2(username,level).after(run_comp1)
     run_comp2.execution_options.caching_strategy.max_cache_stalness = "P0D"
 
 if __name__ == '__main__':
